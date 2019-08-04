@@ -23,7 +23,7 @@
     "morgan": "^1.9.1",
     "pg": "^7.8.0",
     "treeize": "^2.1.2",
-    "xss": "^1.0.3"
+    "xss": "^1.0.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
